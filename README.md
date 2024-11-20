@@ -13,8 +13,8 @@ ColorExpert is a fun and interactive iOS game built with SwiftUI where players m
 - Option to restart the game after it ends.
 ## Screenshots
 
-![Simulator Screenshot - iPhone 14 Pro - 2024-11-15 at 22 29 38](https://github.com/user-attachments/assets/0d77d1cd-1da6-46b5-9a3e-5d769c17b54c)
-![Simulator Screenshot - iPhone 14 Pro - 2024-11-15 at 22 30 43](https://github.com/user-attachments/assets/3abc17fc-1d18-4b24-967e-cce1c9449429)
+<img src="https://github.com/user-attachments/assets/0d77d1cd-1da6-46b5-9a3e-5d769c17b54c" height="400">
+<img src="https://github.com/user-attachments/assets/3abc17fc-1d18-4b24-967e-cce1c9449429" height="400">
 
 # Code Overview
 
